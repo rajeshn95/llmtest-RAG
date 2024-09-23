@@ -1,0 +1,6 @@
+- `source venv/bin/activate`
+  - `pip3 -v`
+  - `pip3 install llmware`
+  - `pip3 install torch`
+  - `pip3 install transformers`
+- `python3 example-1-create_first_library.py`
